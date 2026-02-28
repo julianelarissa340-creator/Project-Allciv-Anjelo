@@ -6144,6 +6144,38 @@
       "Order": 7
   },
 },
+//Curitiba
+{
+    "name": "Jaime Lerner",
+    "culture": 8,
+    "faith": 3,
+    "food": 6,
+    "gold": 6,
+    "happiness": 9,
+    "production": 7,
+    "science": 8,
+
+    "military": 4,
+    "aggressive": 1,
+    "declareWar": 2,
+    "commerce": 7,
+    "diplomacy": 9,
+    "loyal": 8,
+    "expansion": 5,
+
+    "priorities": {
+        "Tradition": 7,
+        "Liberty": 8,
+        "Honor": 2,
+        "Commerce": 7,
+        "Patronage": 6,
+        "Piety": 2,
+        "Rationalism": 8,
+        "Freedom": 9,
+        "Autocracy": 1,
+        "Order": 4
+    }
+},
 //Rhodes
 {
   "name": "Timoleon",

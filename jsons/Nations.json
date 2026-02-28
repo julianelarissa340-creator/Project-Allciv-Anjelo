@@ -1369,6 +1369,37 @@
 },
 //Anjelo's stuff
 {
+	"name": "Curitiba",
+	"adjective": ["Curitibano"],
+	"leaderName": "Jaime Lerner",
+	"startBias": ["Forest", "River", "Avoid [Coast]", "Avoid [Desert]"],
+	"preferredVictoryType": "Cultural",
+	"favoredReligion": "Christianity",
+
+	"declaringWar": "If dialogue fails, we will act with efficiency and precision. Our city was built on bold decisions, and we will not hesitate to redesign this conflict.",
+	"attacked": "You mistake innovation for weakness. Curitiba does not crumble, it adapts. And adaptation will be your undoing!",
+	"defeated": "Even the best urban plan must sometimes yield. May you at least build something worthy upon these streets.",
+	"introduction": "I am Jaime Lerner, mayor of Curitiba. We believe a city is not a problem, it is a solution. Let us build something majestic together!",
+
+	"neutralHello": "Good planning prevents poor performance.",
+	"hateHello": "Your disorder offends the very idea of civilization. Return when you have learned structure.",
+
+	"tradeRequest": "Exchange with us. Prosperity, like transportation, flows best when well designed.",
+
+	"outerColor": [0, 122, 61],
+	"innerColor": [255, 255, 255],
+
+	"uniqueName": "Cidade Modelo",
+	"uniques": [
+		"[+1 Happiness] for every [City] connected to the [Capital]",
+		"[+2 Production] from [Specialist] slots",
+		"Receive a free [Worker] when founding a city"
+	],
+
+	"spyNames": ["Rafael", "Beatriz", "Henrique", "Luciana", "Carlos", "Fernanda", "Eduardo", "Patricia", "Marcos", "Juliana", "Larissa", "Angelo", "Santana", "Madalosso" ],
+	"cities": ["Curitiba", "Santa Felicidade", "Batel", "Cajuru", "Boqueirão", "Portão", "Água Verde", "Uberaba", "Campo Comprido", "Pinheirinho", "Tatuquara", "CIC", "Ahú", "Mercês", "Rebouças", "Bigorrilho", "Vista Alegre", "Guabirotuba", "Capão Raso", "Sítio Cercado", "Centro", "Hauer", "Carmo", "Alto Boqueirão", "Tingui" ]
+},
+{
 		"name": "",
 		"adjective": [""],
 		"leaderName": "",

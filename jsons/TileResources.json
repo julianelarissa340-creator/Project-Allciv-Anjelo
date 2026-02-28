@@ -80,6 +80,12 @@
 		"gold": 2,
 		"culture": 1,
 	},
+    {
+		"name":"Araucaria Trees",
+		"resourceType": "Luxury",
+		"food": 2,
+		"culture": 1,
+	},
 	{
 		"name":"Exotic Spices",
 		"resourceType": "Luxury",
@@ -128,4 +134,5 @@
 		"uniques": ["Cannot be traded", "Stockpiled", "Excluded from map editor", "Not shown on world screen", "Doesn't generate naturally"],
 	},
 ]
+
 

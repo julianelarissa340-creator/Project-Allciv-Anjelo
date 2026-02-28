@@ -2320,6 +2320,24 @@
 			"uniques": ["[+1 Gold] from [Land] tiles [in this city] <with [1] to [6] neighboring [Lakes] tiles>", "[+1 Gold] from [Land] tiles [in this city] <with [1] to [6] neighboring [Oasis] tiles>"],
 			"requiredTech": "Currency"
 		},
+	    //Curitiba
+	{
+	"name": "Integrated Transport Terminal",
+	"uniqueTo": "Curitiba",
+	"replaces": "Workshop",
+	"production": 3,
+	"hurryCostModifier": 25,
+	"maintenance": 2,
+	"requiredTech": "Metal Casting",
+	"civilopediaText": [{
+		"text": "Curitiba's Integrated Transport Network (RIT), developed under Mayor Jaime Lerner, became a global model for Bus Rapid Transit (BRT) systems. Featuring dedicated bus lanes, tube-shaped boarding stations, and synchronized routes, the system dramatically improved urban mobility while reducing costs. The transport terminals connected residential districts to commercial centers, enabling sustainable growth and efficient city expansion."
+	}],
+	"uniques": [
+		"[+10]% Production [in this city]",
+		"[+1 Production] for every [City] connected to the [Capital]",
+		"Internal [Trade routes] to this city provide [+2 Food]"
+	]
+},
 		//Fernando de Noronha
 		{
 			"name": "Dolphin Research Center",

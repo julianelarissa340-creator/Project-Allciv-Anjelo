@@ -3265,6 +3265,24 @@
 	"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack","Never appears as a Barbarian unit"],
 	"attackSound": "cannon"
 },
+//Curitiba
+{
+	"name": "Guarda Municipal",
+	"replaces": "Warrior",
+	"uniqueTo": "Curitiba",
+	"unitType": "Melee",
+	"movement": 2,
+	"strength": 11,
+	"cost": 75,
+	"requiredTech": "Civil Service",
+	"uniques": [
+		"[+40]% Strength when fighting in [Friendly territory]",
+		"[+75]% Strength vs [Barbarians]",
+		"Cannot enter foreign territory unless at war",
+		"Does not upgrade"
+	],
+	"attackSound": "nonmetalhit"
+},
 //Rhodes
 {
 	"name": "Galley Scout",

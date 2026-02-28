@@ -1367,6 +1367,35 @@
 	"spyNames": ["Alexandru", "Andrei", "Mihai", "Florin", "Radu", "Maria", "Elena", "Ioana", "Vlad", "Ana-Maria"],
 	"cities": ["Bucharest", "Cluj-Napoca", "Timisoara", "Iași", "Constanța", "Craiova", "Brașov", "Galați", "Ploiești", "Oradea", "Brăila", "Bacău", "Arad", "Pitești", "Sibiu", "Târgu Mureo?", "Botoșani", "Baia Mare", "Buzău", "Drobeta-Turnu Severin", "Focșani", "Giurgiu", "Piatra Neamo?", "Râmnicu Vâlcea", "Satu Mare", "Sfântu Gheorghe", "Târgoviște", "Tulcea", "Zalău"]
 },
+//Anjelo's stuff
+{
+		"name": "",
+		"adjective": [""],
+		"leaderName": "",
+		"startBias": [""],
+		"preferredVictoryType": "",
+		"favoredReligion": "",
+
+		"declaringWar": " ",
+		"attacked": "",
+		"defeated": " ",
+		"introduction": " ",
+
+		"neutralHello": " ",
+		"hateHello": " ",
+
+		"tradeRequest": " ",
+
+		"outerColor": [4, 67, 137],
+		"innerColor": [247, 184, 1],
+
+		"uniqueName": "",
+		"uniques": [ ],
+
+		"spyNames": [" "],
+		"cities": [" "]
+
+	},
 //Community civs (X2003, Grisly Grotto, Riceroll)
 {
 	"name": "Vanuatu",

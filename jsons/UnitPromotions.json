@@ -491,6 +491,21 @@
 		"name": "[Gholam] ability",
 		"uniques": ["[+25]% Strength <vs [City] units> <when defending>", "Heals [25] damage if it kills a unit", "[+5]% Strength <when adjacent to a [Wounded] unit>"],
 	},
+	//Curitiba promotions
+	{
+	"name": "[Guarda Municipal] ability",
+	"uniques": [
+		"[+20]% Strength <when fighting in [Friendly territory]>",
+		"[+10] HP when healing <in [Friendly territory]>"
+	]
+},
+{
+	"name": "Presença Comunitária",
+	"uniques": [
+		"[+50]% Strength vs [Barbarians]>",
+		"[+15]% Strength <when defending a [City]>"
+	]
+},
 	//Druzhina promotions
 	{
 		"name": "Royal Guard I",

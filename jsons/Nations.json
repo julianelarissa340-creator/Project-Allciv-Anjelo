@@ -1399,34 +1399,6 @@
 	"spyNames": ["Rafael", "Beatriz", "Henrique", "Luciana", "Carlos", "Fernanda", "Eduardo", "Patricia", "Marcos", "Juliana", "Larissa", "Angelo", "Santana", "Madalosso" ],
 	"cities": ["Curitiba", "Santa Felicidade", "Batel", "Cajuru", "Boqueirão", "Portão", "Água Verde", "Uberaba", "Campo Comprido", "Pinheirinho", "Tatuquara", "CIC", "Ahú", "Mercês", "Rebouças", "Bigorrilho", "Vista Alegre", "Guabirotuba", "Capão Raso", "Sítio Cercado", "Centro", "Hauer", "Carmo", "Alto Boqueirão", "Tingui" ]
 },
-{
-		"name": "",
-		"adjective": [""],
-		"leaderName": "",
-		"startBias": [""],
-		"preferredVictoryType": "",
-		"favoredReligion": "",
-
-		"declaringWar": " ",
-		"attacked": "",
-		"defeated": " ",
-		"introduction": " ",
-
-		"neutralHello": " ",
-		"hateHello": " ",
-
-		"tradeRequest": " ",
-
-		"outerColor": [4, 67, 137],
-		"innerColor": [247, 184, 1],
-
-		"uniqueName": "",
-		"uniques": [ ],
-
-		"spyNames": [" "],
-		"cities": [" "]
-
-	},
 //Community civs (X2003, Grisly Grotto, Riceroll)
 {
 	"name": "Vanuatu",

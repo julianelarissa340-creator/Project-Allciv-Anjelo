@@ -483,6 +483,16 @@
 	"[+1 Production] <with [0] to [0] neighboring [City center] tiles>",
 	"Cannot be built on [Hill] tiles <with [1] to [6] neighboring [Hill Bastion] tiles>"],
 },
+//Curitiba
+{
+	"name": "Araucaria Groove",
+	"uniqueTo": "Curitiba",
+	"terrainsCanBeBuiltOn": ["Jungle"],
+	"production": 1,
+	"turnsToBuild": 6,
+	"uniques": ["[+1 Culture], [+2 Food] <after discovering [Civil Service]>"],
+	"techRequired": "Bronze Working",
+},
 //The Khmer
 {
 	"name": "Baray",

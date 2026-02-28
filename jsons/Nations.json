@@ -1376,10 +1376,10 @@
 	"preferredVictoryType": "Cultural",
 	"favoredReligion": "Christianity",
 
-	"declaringWar": "If dialogue fails, we will act with efficiency and precision. Our city was built on bold decisions, and we will not hesitate to redesign this conflict.",
-	"attacked": "You mistake innovation for weakness. Curitiba does not crumble, it adapts. And adaptation will be your undoing!",
-	"defeated": "Even the best urban plan must sometimes yield. May you at least build something worthy upon these streets.",
-	"introduction": "I am Jaime Lerner, mayor of Curitiba. We believe a city is not a problem, it is a solution. Let us build something majestic together!",
+	"declaringWar": "Dialogue is no longer an option. We will act with efficiency and precision!",
+	"attacked": "Are you crazy? What was that for?",
+	"defeated": "It seems that my term as mayor has come to an end. Well, even the best urban planner must sometimes yield. May you at least build something worthy upon these streets, and please, be kind to the people of Curitiba.",
+	"introduction": "Bom dia! I am Jaime Lerner, mayor of the marvelous city of Curitiba. May I tour you around our city? Have you tried the Carmo coxinha already?",
 
 	"neutralHello": "Good planning prevents poor performance.",
 	"hateHello": "Your disorder offends the very idea of civilization. Return when you have learned structure.",

@@ -2324,7 +2324,6 @@
 	{
 	"name": "Integrated Transport Terminal",
 	"uniqueTo": "Curitiba",
-	"replaces": "Workshop",
 	"production": 3,
 	"hurryCostModifier": 25,
 	"maintenance": 2,
@@ -2337,6 +2336,23 @@
 		"[+1 Production] for every [City] connected to the [Capital]",
 		"Internal [Trade routes] to this city provide [+2 Food]"
 	]
+},
+{
+	"name": "Jardim Botânico de Curitiba",
+	"uniqueTo": "Curitiba",
+	"replaces": "Oxford University",
+	"cost": 125,
+	"science": 2,
+	"culture": 2,
+	"happiness": 1,
+	"isNationalWonder": true,
+	"uniques": [
+		"[+1 Science] from [Garden] [in this city]",
+		"[+1 Culture] from [Park] tiles [in this city]",
+		"Only available <if [Garden] is constructed in all [non-[Puppeted]] cities>",
+		"Cost increases by [30] per owned city"
+	],
+	"requiredTech": "Education"
 },
 		//Fernando de Noronha
 		{
